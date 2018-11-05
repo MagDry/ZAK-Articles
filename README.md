@@ -1,4 +1,4 @@
 #ŻAK-Articles
 (HTML, CSS, JS)
 
-Single project with articles from "ŻAK" - students newspaper.
+<a href="https://magdry.github.io/ZAK-Articles/index.html">Single project with articles from "ŻAK" - students newspaper</a>.
