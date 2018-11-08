@@ -1,6 +1,6 @@
 # ŻAK-Articles
 
-(HTML, CSS, JS)
+(HTML, CSS, JavaScript)
 
 Visit here:
 
